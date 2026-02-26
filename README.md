@@ -1,2 +1,2 @@
 # HW 1
-https://matilda-minasian.github.io/
+https://matilda-minasian.github.io/HW1/
